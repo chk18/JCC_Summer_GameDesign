@@ -142,7 +142,7 @@ def game_intro():
 
         gameDisplay.blit(alive, [260,0])
 
-        message_to_screen("Welcome NEXTUP",
+        message_to_screen("Welcome JCC!!",
                       green,
                       -80,
                       "large")
