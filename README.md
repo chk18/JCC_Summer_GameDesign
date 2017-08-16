@@ -1,4 +1,4 @@
-##JCC GameDesign Summer Session
+## JCC GameDesign Summer Session
 ### Using Python, and Pygame to create, edit, and hack around on video games
 
 #### *Kids folders not yet uploaded
