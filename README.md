@@ -1,7 +1,7 @@
-## JCC GameDesign Summer Session
+##JCC GameDesign Summer Session
 ### Using Python, and Pygame to create, edit, and hack around on video games
 
-#### Kids folders not yet uploaded
+#### *Kids folders not yet uploaded
 
 This week at JCC we wanted to give the kids a look at a couple different ways to approach creating computer, and mobile games. We started the week off with an iPad app called HyperPad which is a great introduction to programming, as well as game design. Starting out with a piece of paper, and a pencil we talked about what games good levels, and what makes bad levels. Going over some of the basic elements that the kids could think about when designing their levels, and games. Once they had finished designing their levels we started up the iPads and explored HyerPad. The cool thing about HyerPad is that everything you put onto your scene is programmable in some shape or form. They quickly realize that if they want the lava to do harm to their character they have to program the lava block to do that. Thankfully we can program one lava block, and than duplicate that one and the behaviors carry over! After working on their levels we started to look into adding a character to the scene and customizing how he would react to the different elements in the level. From there it was getting the score to add up correctly, and adding a health bar to track health. Working on your level transitions, adding in the game over behaviors, and beta testing were the last steps to developing our games. My hope with this exercise was to give the kids an idea of the process for designing, and creating a video game. As well as have an easy to use, flexiable platform to really get creative. HyerPad is unfortunately only available for iOS devices. And is located in the Apple app store for those curious.
 
